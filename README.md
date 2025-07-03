@@ -1,2 +1,2 @@
-# git-demo-
-A test repo
+# learn from chai aur code 
+added some text in readme file.
